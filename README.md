@@ -30,8 +30,6 @@ uv pip install pandas sqlalchemy pyyaml rich
 python src/main.py
 ```
 
-*(Add CLI args later, e.g. `--extract-only` or `--transform-only`)*
-
 ---
 
 ## How It Works

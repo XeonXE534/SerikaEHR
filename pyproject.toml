@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "SerikaEHR"
+version = "0.1.0"
+description = "A okay-ish EHR backend"
+authors = [{ name="XeonXE534", email="XeonXE1@proton.me" }]
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "pandas>=2.0.0",
+    "sqlalchemy>=2.0.0",
+    "pyyaml>=6.0",
+    "rich>=13.0.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "pytest-asyncio"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["serika*"]
+
+[project.scripts]
+serika = "serika.main:run"

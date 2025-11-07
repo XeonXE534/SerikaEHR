@@ -121,3 +121,5 @@ dmypy.json
 *.swp
 *.swo
 
+# Extra
+*.json

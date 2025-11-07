@@ -1,5 +1,5 @@
-![SerikaEHR Logo](logo.png)
-## v0.0.1--Alpha
+![SerikaEHR Logo](images/logo3.png)
+## v0.1.0--Alpha
 
 **SerikaEHR** is a lightweight, modular ETL pipeline built for handling and cleaning FHIR-formatted EHR data.
 
@@ -61,3 +61,11 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ## Notes
 Feel free to use, modify, and distribute as you see fit. Just don’t blame me if your EHR data goes haywire :3
 Built using Python, pandas, SQLAlchemy, and Rich
+
+## Disclaimer
+
+SerikaEHR is an independent, open-source project and is not affiliated with, endorsed, or sponsored by Nexon Games, Yostar, or Blue Archive.
+The character Serika and related assets belong to Nexon Games Co., Ltd.
+All character references are for fan and educational purposes only.
+
+If you are a copyright holder and believe any content used here violates your rights, please open an issue or contact me — I'll remove it immediately.

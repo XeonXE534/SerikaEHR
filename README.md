@@ -1,5 +1,5 @@
-![SerikaEHR Logo](images/logo3.png)
-## v0.1.0--Alpha
+![SerikaEHR Logo](images/logo2.png)
+## v0.1.0
 
 **SerikaEHR** is a lightweight, modular ETL pipeline built for handling and cleaning FHIR-formatted EHR data.
 

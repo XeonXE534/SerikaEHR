@@ -1,4 +1,4 @@
-<img align="left" src="images/logo2.png" alt="logo" width="450" />
+<img align="left" src="images/halo.png" alt="logo" width="450" />
 
 ![Version](https://img.shields.io/badge/version-2.1.1-blue)
 ![License](https://img.shields.io/github/license/XeonXE534/SerikaEHR)

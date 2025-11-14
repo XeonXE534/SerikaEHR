@@ -24,7 +24,7 @@
 
 ### Install dependencies
 ```bash
-uv pip install pandas sqlalchemy pyyaml rich
+pip install pandas sqlalchemy pyyaml rich
 ```
 
 ### Run the pipeline

@@ -1,3 +1,5 @@
+# HIATUS FOR NOW!! DO NOT EXPECT UPDATES
+
 <img align="left" src="images/halo.png" alt="logo" width="450" />
 
 ![Version](https://img.shields.io/badge/version-2.1.1-blue)\
